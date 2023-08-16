@@ -57,9 +57,22 @@
 }
 
 #equals{
-    flex: 49%;
+    flex: 74%;
 }
 
 body{
     background-color: azure;
 }
+
+.text{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 54px;
+    box-sizing: border-box;
+    padding-right: 4%;
+    
+}
+
